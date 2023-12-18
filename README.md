@@ -1,4 +1,4 @@
-# Radiotranscriptomics of Non-Small Cell Lung Carcinoma for Assessing High-Level Clinical Outcomes using Multi-View Analysis
+# Radiotranscriptomics of non-small cell lung carcinoma for assessing high-level clinical outcomes using a machine learning-derived multi-modal signature 
 
 Background: Multi-omics research has the potential to holistically capture intra-tumor variability, thereby improving therapeutic decisions by incorporating the key principles of precision medicine. The purpose of this study is to identify the most optimal method of integrating features from different sources, such as imaging, transcriptomics, and clinical data, to predict the survival and therapy response of non-small cell lung cancer patients. 
 
@@ -8,7 +8,8 @@ Results: The examined multi-omics model improved the AUC up to 0.10 on the unsee
 
 Conclusion: Compared to single-source models, multi-omics integration significantly improved prediction performance, increased model stability, and decreased bias for both treatment response and survival analysis.
 
-Published: Pending
+Published: BMC BioMedical Engineering OnLine
+Link: https://doi.org/10.1186/s12938-023-01190-z
 
 Lasso-based pipeline implementation:
 https://github.com/NikiKou/deep_radiotranscriptomics_survival_analysis
