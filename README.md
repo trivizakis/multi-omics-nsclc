@@ -11,5 +11,5 @@ Conclusion: Compared to single-source models, multi-omics integration significan
 Published: BMC BioMedical Engineering OnLine
 Link: https://doi.org/10.1186/s12938-023-01190-z
 
-Lasso-based pipeline implementation:
+Ridge Lasso pipeline:
 https://github.com/NikiKou/deep_radiotranscriptomics_survival_analysis
